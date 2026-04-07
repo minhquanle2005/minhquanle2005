@@ -1,16 +1,34 @@
-## Hi there 👋
+# Greeting 👋
 
-<!--
-**minhquanle2005/minhquanle2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About ME :
 
-Here are some ideas to get you started:
+### - I'm 20 years old Vietnamese student with a sip of Aritifical Intellegence (AI) Enthuasiast and Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Currently working on:
+- Song recommending AI chatbox
+
+### - Learing :
+- Data Structure and Algortithms
+- Web Design
+- Software Engineering
+- Operating System
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Modding Game Addict ( Stardew Valley mostly since its code is open for modding =33 )
+- ✨ Badminton ( A boy but get treated like a girl in duo badminton >=[ )
+
+### - Language and Tools : 
+- ✨ Python
+- ✨ Java
+- AI
+- ✨ Google firebase
+- ✨ Visual Studio Code
+- ✨ Android Studio
+
+### - Contact me
+- If you want to pick up a hardworking intern who takes coding and game into one, it is me
+- If you want to search for a gaming friend who will always be there when you in the mood of a game, here am i
+- Gmail: minhqle3052005@gmail
+- Facebook: Lei Ming Wuan
+- Instagram: madagasisme
