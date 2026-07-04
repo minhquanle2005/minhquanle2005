@@ -5,7 +5,7 @@
 ### - I'm 20 years old Vietnamese student with a sip of Aritifical Intellegence (AI) Enthuasiast and Game Development
 
 ### - Currently working on:
-- Song recommending AI chatbox
+- A To-do app with the first function currently is reading mail and creating task from Gmail API
 
 ### - Learing :
 - Data Structure and Algortithms
