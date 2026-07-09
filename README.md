@@ -5,7 +5,7 @@
 ### - I'm 20 years old Vietnamese student with a sip of Aritifical Intellegence (AI) Enthuasiast and Game Development
 
 ### - Currently working on:
-- A To-do app with the first function currently is reading mail and creating task from Gmail API
+- A To-do app with the first function currently is reading mail and creating task from Gmail API and more sources slowly hehe
 
 ### - Learing :
 - Data Structure and Algortithms
@@ -21,7 +21,7 @@
 ### - Language and Tools : 
 - ✨ Python
 - ✨ Java
-- AI
+- ✨ AI
 - ✨ Google firebase
 - ✨ Visual Studio Code
 - ✨ Android Studio
