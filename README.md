@@ -5,7 +5,7 @@
 ### - I'm 20 years old Vietnamese student with a sip of Aritifical Intellegence (AI) Enthuasiast and Game Development
 
 ### - Currently working on:
-- A To-do app with the first function currently is reading mail and creating task from Gmail API and more sources slowly hehe
+- A game
 
 ### - Learing :
 - Data Structure and Algortithms
@@ -29,6 +29,6 @@
 ### - Contact me
 - If you want to pick up a hardworking intern who takes coding and game into one, it is me
 - If you want to search for a gaming friend who will always be there when you in the mood of a game, here am i
-- Gmail: minhqle3052005@gmail
+- Gmail: minhqle3052005@gmail.com
 - Facebook: Lei Ming Wuan
 - Instagram: madagasisme
